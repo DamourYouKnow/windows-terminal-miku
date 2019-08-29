@@ -228,7 +228,7 @@
         {
             "acrylicOpacity" : 0.85000002384185791,
             "background" : "#373B3E",
-            "backgroundImage" : "ms-appdata:///roaming/miku.png",
+            "backgroundImage" : "ms-appdata:///local/miku.png",
             "backgroundImageAlignment" : "bottomRight",
             "backgroundImageOpacity" : 0.30000001192092896,
             "backgroundImageStretchMode" : "uniform",
@@ -252,7 +252,7 @@
         {
             "acrylicOpacity" : 0.85000002384185791,
             "background" : "#373B3E",
-            "backgroundImage" : "ms-appdata:///roaming/miku.png",
+            "backgroundImage" : "ms-appdata:///local/miku.png",
             "backgroundImageAlignment" : "bottomRight",
             "backgroundImageOpacity" : 0.30000001192092896,
             "backgroundImageStretchMode" : "uniform",
@@ -276,7 +276,7 @@
         {
             "acrylicOpacity" : 0.85000002384185791,
             "background" : "#373B3E",
-            "backgroundImage" : "ms-appdata:///roaming/miku.png",
+            "backgroundImage" : "ms-appdata:///local/miku.png",
             "backgroundImageAlignment" : "bottomRight",
             "backgroundImageOpacity" : 0.30000001192092896,
             "backgroundImageStretchMode" : "uniform",
@@ -301,7 +301,7 @@
         {
             "acrylicOpacity" : 0.85000002384185791,
             "background" : "#373B3E",
-            "backgroundImage" : "ms-appdata:///roaming/miku.png",
+            "backgroundImage" : "ms-appdata:///local/miku.png",
             "backgroundImageAlignment" : "bottomRight",
             "backgroundImageOpacity" : 0.30000001192092896,
             "backgroundImageStretchMode" : "uniform",
@@ -314,7 +314,7 @@
             "fontSize" : 10,
             "guid" : "{14ad203f-52cc-4110-90d6-d96e0f41b64d}",
             "historySize" : 9001,
-            "icon" : "ms-appdata:///roaming/git-bash.png",
+            "icon" : "ms-appdata:///local/git-bash.png",
             "name" : "Git Bash",
             "padding" : "0, 0, 0, 0",
             "snapOnInput" : true,
