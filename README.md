@@ -3,6 +3,12 @@
 Copy and replace the contents of the `profile` directory into the Windows 
 Terminal application data folder.
 
+Define the backround image path in settings.json
+something like 
+```
+Users/<yourUserName>/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/miku.png
+```
+
 If you are using the git bash profile please make sure that the profile's 
 `commandLine` field is set to the correct path.
 
